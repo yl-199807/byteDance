@@ -8,7 +8,7 @@ http.createServer(((req, res) => {
         console.log('可以读文件啦')
     }
 })
-    .listen(port, () => {
-        console.log(`Server at ${port}`)
-    })
-)
+
+).listen(port, () => {
+    console.log(`Server at ${port}`)
+})

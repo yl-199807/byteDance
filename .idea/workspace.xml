@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed08a9a-0991-4c2d-acdd-9187bdf97a17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/bin/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/adminer-4.8.1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/cookie_session/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/mysql/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/mysql/sequelize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/bin/test1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/lib/download.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/lib/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_0920_node/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/http.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/bin/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/bin/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/node_modules/ora/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/node_modules/ora/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-auto-router-cli/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +45,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical" />
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node\vue-auto-router-cli\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node" />
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node\mysql" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,11 +66,25 @@
       <workItem from="1630751158061" duration="2618000" />
       <workItem from="1630822936919" duration="3535000" />
       <workItem from="1630920235190" duration="297000" />
-      <workItem from="1632104878039" duration="2114000" />
+      <workItem from="1632104878039" duration="14584000" />
+      <workItem from="1632153894938" duration="30000" />
+      <workItem from="1632153937950" duration="318000" />
     </task>
+    <task id="LOCAL-00001" summary="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装">
+      <created>1632109240384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632109240384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装" />
+    <option name="LAST_COMMIT_MESSAGE" value="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装" />
   </component>
 </project>
