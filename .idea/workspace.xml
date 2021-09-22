@@ -1,25 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed08a9a-0991-4c2d-acdd-9187bdf97a17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/indexTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/packageJsonTemplate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/question/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/template/index.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli/bin/template/package.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/uni-test/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/uni-test/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/webpack_test/foo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/webpack_test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/webpack_test/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/webpack_test/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/webpack_test/webpack.config.js" afterDir="false" />
+    <list default="true" id="1ed08a9a-0991-4c2d-acdd-9187bdf97a17" name="Default Changelist" comment="WINTER YYDS!!!&#10;1. react-demo: 仿Ant D首页&#10;2. Ant Design Pro&#10;3. drag">
+      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template/src/views/ABC.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/ls-zj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/ls-zj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/antDProject/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/antDProject/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/drag.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-template" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +53,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/01_0920_node/vue-template" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1xffeAhYQNGKrRuBQUwbaLRuRCm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +73,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/02_0921_webpack/koa-setup-autoCli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="D:\workspace\ByteDanceProject\byteDancePractical\src\03_0922_Backstage\myapp\node_modules\stylelint" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -76,7 +105,8 @@
       <workItem from="1630920235190" duration="297000" />
       <workItem from="1632104878039" duration="14584000" />
       <workItem from="1632153894938" duration="30000" />
-      <workItem from="1632153937950" duration="12150000" />
+      <workItem from="1632153937950" duration="17117000" />
+      <workItem from="1632298530505" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装">
       <created>1632109240384</created>
@@ -92,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632154535579</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WINTER YYDS!!!&#10;1. 初始化 基于koa的脚手架&#10;2. 开发 webpack、rollup&#10;3. 测试 单元(jest)">
+      <created>1632272616335</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1632272616335</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装" />
     <MESSAGE value="WINTER YYDS!!!&#10;1. 自定义命令行&#10;2. figlet命令行输出艺术字&#10;3. vue-cli 自动化构建，命名路由&#10;4. mongodb,mysql操作&#10;5. 基于约定的增删改查" />
-    <option name="LAST_COMMIT_MESSAGE" value="WINTER YYDS!!!&#10;1. 自定义命令行&#10;2. figlet命令行输出艺术字&#10;3. vue-cli 自动化构建，命名路由&#10;4. mongodb,mysql操作&#10;5. 基于约定的增删改查" />
+    <MESSAGE value="WINTER YYDS!!!&#10;1. 初始化 基于koa的脚手架&#10;2. 开发 webpack、rollup&#10;3. 测试 单元(jest)" />
+    <MESSAGE value="WINTER YYDS!!!&#10;1. react-demo: 仿Ant D首页&#10;2. Ant Design Pro&#10;3. drag" />
+    <option name="LAST_COMMIT_MESSAGE" value="WINTER YYDS!!!&#10;1. react-demo: 仿Ant D首页&#10;2. Ant Design Pro&#10;3. drag" />
   </component>
 </project>
