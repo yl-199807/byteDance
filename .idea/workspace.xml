@@ -2,48 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ed08a9a-0991-4c2d-acdd-9187bdf97a17" name="Default Changelist" comment="WINTER YYDS!!!&#10;1. react-demo: 仿Ant D首页&#10;2. Ant Design Pro&#10;3. drag">
-      <change afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template/src/views/ABC.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/ls-zj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/ls-zj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/antDProject/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/antDProject/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/drag.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/my-app/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/03_0922_Backstage/reactApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/04_0923_Mobile/slide.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/05_0924_miniVue/02-init.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/05_0924_miniVue/vue3_demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-template" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_0920_node/vue-template/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_0920_node/vue-template/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/linshi/ls-zj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_0921_webpack/ls-zj/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/01_0920_node/vue-template" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1xffeAhYQNGKrRuBQUwbaLRuRCm" />
@@ -73,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/04_0923_Mobile" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -83,11 +45,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\src\04_0923_Mobile" />
       <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\02_0921_webpack\koa-setup-autoCli" />
       <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical" />
       <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node\vue-auto-router-cli\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\ByteDanceProject\byteDancePractical\src\05_0924_miniVue" />
       <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node" />
       <recent name="D:\workspace\ByteDanceProject\byteDancePractical\byteDancePractical\src\01_0920_node\mysql" />
     </key>
@@ -106,7 +70,7 @@
       <workItem from="1632104878039" duration="14584000" />
       <workItem from="1632153894938" duration="30000" />
       <workItem from="1632153937950" duration="17117000" />
-      <workItem from="1632298530505" duration="877000" />
+      <workItem from="1632298530505" duration="13263000" />
     </task>
     <task id="LOCAL-00001" summary="YYDS!!!&#10;* src/01_0920_node下创建vue-auto-router-cli&#10;* 模拟全局安装">
       <created>1632109240384</created>
@@ -129,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632272616335</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="WINTER YYDS!!!&#10;1. react-demo: 仿Ant D首页&#10;2. Ant Design Pro&#10;3. drag">
+      <created>1632299443642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1632299443642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
